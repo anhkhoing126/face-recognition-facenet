@@ -21,7 +21,7 @@ Download the pretrained model of Facenet and extract it into ```pretrained_model
 1. Run collect_data.py to create new dataset
 ```
 Enter your name to label the dataset and press ```q``` to stop collecting data. When press ```q``` the window won't collase and
-you have to force stop it, I'm tring to fix it at the momemt.
+you have to force stop it, I'm trying to fix it at the momemt.
 ```
 2. Run align_rawdataset.py to align the faces from dataset
 ```
